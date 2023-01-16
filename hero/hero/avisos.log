@@ -1,0 +1,13 @@
+[2023-01-14 21:46:59] [ INFO ] [HeroService: 32] The superhero with id8has been saved successfully
+[2023-01-14 21:48:05] [ INFO ] [HeroService: 50] The superhero has been successfully removed
+[2023-01-14 21:52:01] [ ERROR] [HeroService: 41] The superhero with id1 has been consult successfully
+[2023-01-14 21:52:01] [ ERROR] [HeroService: 42] The superhero with id1 has been consult successfully
+[2023-01-14 21:52:14] [ ERROR] [HeroService: 41] The superhero with id1 has been consult successfully
+[2023-01-14 21:52:14] [ ERROR] [HeroService: 42] The superhero with id1 has been consult successfully
+[2023-01-14 21:52:31] [ ERROR] [HeroService: 41] The superhero with id1 has been consult successfully
+[2023-01-14 21:52:31] [ ERROR] [HeroService: 42] The superhero with id1 has been consult successfully
+[2023-01-14 21:53:52] [ INFO ] [HeroService: 41] The superhero with id: 1 has been consult successfully
+[2023-01-14 21:54:20] [ INFO ] [HeroService: 32] The superhero with id: 8 has been saved successfully
+[2023-01-14 21:54:25] [ INFO ] [HeroService: 41] The superhero with id: 8 has been consult successfully
+[2023-01-14 21:54:25] [ INFO ] [HeroService: 51] The superhero has been successfully removed
+[2023-01-14 21:58:00] [ INFO ] [HeroService: 62] Se consultaron todos los heroes con exito
